@@ -1,0 +1,12 @@
+John Doe
+Python Developer | Machine Learning Engineer
+
+Skills: Python, Machine Learning, Scikit-learn, Pandas, NumPy, Data Analysis, SQL, Git
+
+Experience:
+- Built classification models using Random Forest and SVM
+- Worked on data preprocessing pipelines
+- Created dashboards using Matplotlib
+
+Education:
+B.Tech in Computer Science, 2023

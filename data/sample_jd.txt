@@ -1,0 +1,19 @@
+Job Title: Full Stack Developer / Software Engineer
+
+We are looking for a candidate with:
+- Strong JavaScript and Java programming skills
+- Experience with React.js and Next.js frameworks
+- Knowledge of Node.js and Express.js for backend development
+- Familiarity with MongoDB and MySQL databases
+- Experience with REST API development
+- Knowledge of HTML, CSS, Tailwind CSS
+- Familiarity with Git and GitHub for version control
+- Experience with cloud platforms and deployment (Vercel, Cloudinary)
+- Authentication experience (JWT, NextAuth)
+- Good communication and teamwork skills
+- Knowledge of SQL and database management
+- Experience with REST API and full stack web development
+- Knowledge of React.js, Next.js, Node.js, Express.js
+- Familiarity with HTML, CSS, Tailwind CSS and frontend development
+- Backend development with Node.js
+- Deployment on Vercel and cloud platforms
