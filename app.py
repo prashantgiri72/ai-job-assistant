@@ -9,7 +9,14 @@ from utils.scorer import get_full_report
 from utils.skill_gap import get_skill_gap_report
 from utils.keyword_extractor import get_ats_report
 from utils.cover_letter import generate_cover_letter
+import subprocess
+import sys
 
+# Download spacy model if not present
+try:
+    import en_core_web_sm
+except ImportError:
+    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
 # ---- PAGE CONFIG ----
 st.set_page_config(
     page_title="AI Job Assistant",
