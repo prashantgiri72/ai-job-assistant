@@ -1,8 +1,9 @@
-streamlit==1.41.0
+streamlit
 scikit-learn
 nltk
 pymupdf
 groq
 python-dotenv
 numpy
-spacy==3.7.5
+spacy
+pillow>=11.0.0
